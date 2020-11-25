@@ -31,6 +31,8 @@ body{
 
 }
 
+/*--------Image--------*/
+
 #img-div{
     position: relative;
     background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(48,48,48,1) 50%, rgba(0,0,0,1) 100%);
@@ -78,6 +80,7 @@ li{
     color: rgb(59, 59, 59);;
 }
 
+/*--------Footer-------*/
 
 #footer-info{
     text-align: center;
@@ -90,6 +93,8 @@ li{
     text-decoration: none;
     color: rgb(47, 104, 151);
 }
+
+/*--------Media queries-------*/
 
 @media only screen and (max-width: 700px){
    
